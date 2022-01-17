@@ -1,0 +1,6 @@
+C:\Users\DELL\Downloads\BAckEnd-DotNet\BackEnd-6\dotnet-6-registration-login-api-master\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BAckEnd-DotNet\BackEnd-6\dotnet-6-registration-login-api-master\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\BAckEnd-DotNet\BackEnd-6\dotnet-6-registration-login-api-master\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\BAckEnd-DotNet\BackEnd-6\dotnet-6-registration-login-api-master\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\DELL\Downloads\BAckEnd-DotNet\BackEnd-6\dotnet-6-registration-login-api-master\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BAckEnd-DotNet\BackEnd-6\dotnet-6-registration-login-api-master\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
